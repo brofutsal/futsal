@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body {
+    background-color: #f2f3e3;
+  }
+
+  h1{
+      background-color:#77ce5f;
+      color:#ffffff;
+      font-size: 1.3em;
+      width: 1250px;
+  }
+.sample9{
+    border-bottom:double 3px #77ce5f;
+    border-top:double 3px #77ce5f
+}
+
